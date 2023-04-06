@@ -1,0 +1,26 @@
+h1{
+    font-family: 'Courgette', cursive;
+    color: #f9ccd2;
+}
+
+#titulo-cumpleanios {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-top: 100px;
+    font-family:'Courgette', cursive;
+  }
+
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .gallery-item h3 {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Roboto Flex', sans-serif;
+  }

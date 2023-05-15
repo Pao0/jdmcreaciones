@@ -1,0 +1,111 @@
+body {
+    background-color: white;
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+    color: #f9ccd2;
+}
+h2{
+    font-family: 'Roboto Flex', sans-serif;
+    color: #f9ccd2;
+}
+
+.seguime {
+    color: white;
+}
+
+header {
+    background-color: #f9ccd2;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 0px 15px;
+}
+
+#imagen-principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.barra-nav {
+    font-size: 25px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.logotipo {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul {
+    text-align: right;
+    display: inline;
+   
+}
+
+.titulo-home {
+    text-align: center;
+}
+
+.parrafo-home {
+    text-align: center;
+    font-size: 20px;
+    font-family:'Courgette', cursive;
+}
+
+.parrafo-home {
+    display: inline-block;
+    margin: 100px 100px;
+}
+
+.redes {
+    background-color: #f9ccd2;
+}
+
+.titulo-principal {
+    display: inline-block;
+    margin: 40px 20px 20px 20px ;
+}
+
+
+
+h3 {
+    display: inline-block;
+    margin: 0px 15px;
+}
+
+h3 a {
+    text-decoration: none;
+    color: white;
+}
+#formulario-de-contacto {
+    background-color: #f9ccd2;
+    height: 350px;
+    width: 250px;
+    margin: auto;
+}
+input {margin: 10px;
+text-align: center;}
+label {margin: 10px;}
+#contactame {text-align: center;}
+
+#enviar {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+
+

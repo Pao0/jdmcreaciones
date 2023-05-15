@@ -24,3 +24,12 @@ h1{
     font-weight: bold;
     font-family: 'Roboto Flex', sans-serif;
   }
+
+  .gallery-item {
+    transition: 0.5s;
+    object-fit: cover;
+  }
+  
+  .gallery-item:hover{
+    transform: (1.2);
+  }
